@@ -13,7 +13,7 @@
 
 ### **Statistic**
 ![](https://komarev.com/ghpvc/?username=mrskyguy&color=8C43EA)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrskyguy&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrskyguy&count_private=true&show_icons=true&title_color=8C43EA&icon_color=BE57EA&bg_color=30,191919,341b56&text_color=B1B1B1&border_radius=10&hide_border=true&include_all_commits=1)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!-- Пока не работает -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skyguy)](https://github.com/anuraghazra/github-readme-stats) -->
