@@ -12,4 +12,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oxanium&duration=3000&color=8C43EA&height=30&lines=Python%2C+JavaScript;Flask;Django+(in+near+future);React.js+(in+near+future);HTML%2C+CSS+(SCSS))](https://git.io/typing-svg)
 
 ### **Statistic**
-![](https://komarev.com/ghpvc/?username=mrskyguy)
+![](https://komarev.com/ghpvc/?username=mrskyguy)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrskyguy&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
