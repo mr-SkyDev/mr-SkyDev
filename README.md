@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Student, developer from Russia 🇷🇺
+    Student, developer from Russia
 </h3>  
 
 ### **My skills**
