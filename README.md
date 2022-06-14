@@ -16,5 +16,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrskyguy&count_private=true&show_icons=true&title_color=8C43EA&icon_color=BE57EA&bg_color=30,191919,341b56&text_color=B1B1B1&border_radius=10&hide_border=true&include_all_commits=1)](https://github.com/anuraghazra/github-readme-stats)  
 
 
+<h2 align="center"> My WakaTime stats: </h2>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
