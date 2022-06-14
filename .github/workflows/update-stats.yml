@@ -20,4 +20,6 @@ jobs:
           SHOW_OS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
-          SYMBOL_VERSION: "2"
+          SYMBOL_VERSION: "1"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_LOC_CHART: "False"
