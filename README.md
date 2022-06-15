@@ -18,7 +18,7 @@
 
 <h2 align="center"> My WakaTime stats: </h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-199%20Thousand%20lines%20of%20code-blue)
 
@@ -89,5 +89,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2022 11:40:42 UTC
+ Last Updated on 15/06/2022 18:54:33 UTC
 <!--END_SECTION:waka-->
