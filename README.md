@@ -17,6 +17,7 @@
 
 
 <h2 align="center"> My WakaTime stats: </h2>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-298%20hrs%2025%20mins-blue)
 
