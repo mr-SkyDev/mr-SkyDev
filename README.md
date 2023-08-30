@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Student 17yo, developer from Russia
+    Student 18yo, developer from Russia
 </h3>  
 
 ### **My skills**
